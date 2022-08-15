@@ -1,0 +1,46 @@
+
+Amir Sarrouj
+asarrouj590@gmail.com  (419) 787-5471  Columbus, OH
+
+ABOUT ME
+left4508500
+I am a Software Engineer who’s passionate about learning new skills and applying my deep knowledge of programming to create the best solutions to complex problems.
+
+WORK EXPERIENCE
+left46990
+OliveAI – Software Engineer
+Jun 2019 – Dec 2021 in Columbus, OH
+Automated health care processes for hospitals and health care networks, relying on Javascript to script automations that web-scrape and process patient health information
+Created NodeJS modules for other internal engineers to utilize in their automations, slashing development time and improving scalability and efficiency 
+Built REST API Clients to acquire patient health data from secure web servers, written in Typescript/NodeJS
+Worked in a fully Agile environment, adhering to two-week sprints with daily Standups and biweekly Sprint Planning meetings
+Frequently advised newer employees, teaching them current company architecture, design patterns, data structures, and good coding practices
+
+PERSONAL PROJECTS
+left45085
+Built an automated Discord bot to add features and moderation to chatting servers
+Created custom Java GUI application to assist family member in medical billing
+Researched and implemented AI 3D object detection methods for intermural autonomous driving competition
+Trained an AI application using a linear regressor to predict the outcomes of NFL games 
+Built interactive full stack website from scratch using Nginx, Angular, Express, and Postgres
+Developed an Android application using Java and Android Studio with a team; application contained minigames and other tasks, utilizes activities and Android sensors/filesystems
+Built a complete 2D platformer using C# as well as a 3D vehicle shooter using C# in Unity with a team of peers in Agile environments
+
+EDUCATION
+3175024765
+Master of Science in Computer Science and EngineeringAug 2019 – Aug 2022
+The Ohio State University, Columbus, OH – GPA 3.683 Cum Laude
+Specialized in Machine Learning and Artificial Intelligence
+
+Bachelor of Science in Computer Science and Engineering Aug 2014 – May 2019
+The Ohio State University, Columbus, OH – GPA 3.568 Cum Laude
+University of Toledo, Toledo, OH – GPA 3.626
+Dean’s List: Fall 2014 – Spring 2017
+
+SKILLS
+-635046990
+Programming Languages: Java, Javascript, Typescript, Python, C, C++, C#, Ruby, HTML/CSS, Scheme
+Development Frameworks: Node JS, Conda, Android Studio, Unity, Angular, Bash, Powershell
+Applications and Tools: AWS, JIRA, Scikit-Learn, Express, Nginx, Mocha, REST APIs, Git, Postrgres
+General Concepts: OOP, Agile, TDD, Unit Testing, Networking, Application Development, AI and ML
+Personal Qualities: Good coding and OOP practices, fast learner, hard worker, good communicator

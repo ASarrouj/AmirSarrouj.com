@@ -1,0 +1,4298 @@
+{
+  "w:document": {
+    "@xmlns:wpc": "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
+    "@xmlns:cx": "http://schemas.microsoft.com/office/drawing/2014/chartex",
+    "@xmlns:cx1": "http://schemas.microsoft.com/office/drawing/2015/9/8/chartex",
+    "@xmlns:cx2": "http://schemas.microsoft.com/office/drawing/2015/10/21/chartex",
+    "@xmlns:cx3": "http://schemas.microsoft.com/office/drawing/2016/5/9/chartex",
+    "@xmlns:cx4": "http://schemas.microsoft.com/office/drawing/2016/5/10/chartex",
+    "@xmlns:cx5": "http://schemas.microsoft.com/office/drawing/2016/5/11/chartex",
+    "@xmlns:cx6": "http://schemas.microsoft.com/office/drawing/2016/5/12/chartex",
+    "@xmlns:cx7": "http://schemas.microsoft.com/office/drawing/2016/5/13/chartex",
+    "@xmlns:cx8": "http://schemas.microsoft.com/office/drawing/2016/5/14/chartex",
+    "@xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+    "@xmlns:aink": "http://schemas.microsoft.com/office/drawing/2016/ink",
+    "@xmlns:am3d": "http://schemas.microsoft.com/office/drawing/2017/model3d",
+    "@xmlns:o": "urn:schemas-microsoft-com:office:office",
+    "@xmlns:oel": "http://schemas.microsoft.com/office/2019/extlst",
+    "@xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+    "@xmlns:m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+    "@xmlns:v": "urn:schemas-microsoft-com:vml",
+    "@xmlns:wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+    "@xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+    "@xmlns:w10": "urn:schemas-microsoft-com:office:word",
+    "@xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+    "@xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+    "@xmlns:w15": "http://schemas.microsoft.com/office/word/2012/wordml",
+    "@xmlns:w16cex": "http://schemas.microsoft.com/office/word/2018/wordml/cex",
+    "@xmlns:w16cid": "http://schemas.microsoft.com/office/word/2016/wordml/cid",
+    "@xmlns:w16": "http://schemas.microsoft.com/office/word/2018/wordml",
+    "@xmlns:w16sdtdh": "http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash",
+    "@xmlns:w16se": "http://schemas.microsoft.com/office/word/2015/wordml/symex",
+    "@xmlns:wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+    "@xmlns:wpi": "http://schemas.microsoft.com/office/word/2010/wordprocessingInk",
+    "@xmlns:wne": "http://schemas.microsoft.com/office/word/2006/wordml",
+    "@xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+    "@mc:Ignorable": "w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14",
+    "w:body": {
+      "w:p": [
+        {
+          "@w14:paraId": "2A242CAC",
+          "@w14:textId": "52D6F47F",
+          "@w:rsidR": "00D7551A",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00281B97",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:pBdr": {
+              "w:bottom": {
+                "@w:val": "single",
+                "@w:sz": "6",
+                "@w:space": "1",
+                "@w:color": "auto"
+              }
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "48"
+              },
+              "w:szCs": {
+                "@w:val": "32"
+              }
+            }
+          },
+          "w:r": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "48"
+              },
+              "w:szCs": {
+                "@w:val": "32"
+              }
+            },
+            "w:t": "Amir Sarrouj"
+          }
+        },
+        {
+          "@w14:paraId": "64D352C4",
+          "@w14:textId": "0AC2F5DA",
+          "@w:rsidR": "005F52CE",
+          "@w:rsidRPr": "005F52CE",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00281B97",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:pBdr": {
+              "w:bottom": {
+                "@w:val": "single",
+                "@w:sz": "6",
+                "@w:space": "1",
+                "@w:color": "auto"
+              }
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "32"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "asarrouj590"
+            },
+            {
+              "@w:rsidR": "0063407D",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "@"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "gmail"
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "@w:rsidRPr": "00395D1D",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ".com"
+              }
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Wingdings",
+                  "@w:hAnsi": "Wingdings"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": ""
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "@w:rsidRPr": "00395D1D",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "("
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "419"
+            },
+            {
+              "@w:rsidR": "00800287",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ")"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "787"
+            },
+            {
+              "@w:rsidR": "00800287",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "-5"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "471"
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Wingdings",
+                  "@w:hAnsi": "Wingdings"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": ""
+            },
+            {
+              "@w:rsidR": "00E1744F",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "Columbus, OH"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "50BD15F4",
+          "@w14:textId": "217093A9",
+          "@w:rsidR": "008A32F7",
+          "@w:rsidRPr": "0096212B",
+          "@w:rsidRDefault": "008A32F7",
+          "@w:rsidP": "008A32F7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "16"
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "6302013C",
+          "@w14:textId": "60BF87B9",
+          "@w:rsidR": "005F52CE",
+          "@w:rsidRPr": "005F52CE",
+          "@w:rsidRDefault": "00E67ECE",
+          "@w:rsidP": "005F52CE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading1"
+            },
+            "w:spacing": {
+              "@w:before": "0"
+            }
+          },
+          "w:r": {
+            "w:t": "ABOUT ME"
+          }
+        },
+        {
+          "@w14:paraId": "2D599E09",
+          "@w14:textId": "1067A884",
+          "@w:rsidR": "00163271",
+          "@w:rsidRPr": "00163271",
+          "@w:rsidRDefault": "00020240",
+          "@w:rsidP": "00163271",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:ind": {
+              "@w:left": "360"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            }
+          },
+          "w:r": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:noProof": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            },
+            "mc:AlternateContent": {
+              "mc:Choice": {
+                "@Requires": "wps",
+                "w:drawing": {
+                  "wp:anchor": {
+                    "@distT": "0",
+                    "@distB": "0",
+                    "@distL": "114300",
+                    "@distR": "114300",
+                    "@simplePos": "0",
+                    "@relativeHeight": "251659264",
+                    "@behindDoc": "0",
+                    "@locked": "0",
+                    "@layoutInCell": "1",
+                    "@allowOverlap": "1",
+                    "@wp14:anchorId": "37430B50",
+                    "@wp14:editId": "423966C2",
+                    "wp:simplePos": {
+                      "@x": "0",
+                      "@y": "0"
+                    },
+                    "wp:positionH": {
+                      "@relativeFrom": "margin",
+                      "wp:align": "left"
+                    },
+                    "wp:positionV": {
+                      "@relativeFrom": "paragraph",
+                      "wp:posOffset": "45085"
+                    },
+                    "wp:extent": {
+                      "@cx": "6826250",
+                      "@cy": "6350"
+                    },
+                    "wp:effectExtent": {
+                      "@l": "38100",
+                      "@t": "38100",
+                      "@r": "69850",
+                      "@b": "88900"
+                    },
+                    "wp:wrapNone": null,
+                    "wp:docPr": {
+                      "@id": "1",
+                      "@name": "Straight Connector 1"
+                    },
+                    "wp:cNvGraphicFramePr": null,
+                    "a:graphic": {
+                      "@xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                      "a:graphicData": {
+                        "@uri": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+                        "wps:wsp": {
+                          "wps:cNvCnPr": null,
+                          "wps:spPr": {
+                            "a:xfrm": {
+                              "a:off": {
+                                "@x": "0",
+                                "@y": "0"
+                              },
+                              "a:ext": {
+                                "@cx": "6826250",
+                                "@cy": "6350"
+                              }
+                            },
+                            "a:prstGeom": {
+                              "@prst": "line",
+                              "a:avLst": null
+                            },
+                            "a:ln": {
+                              "@w": "12700",
+                              "a:solidFill": {
+                                "a:schemeClr": {
+                                  "@val": "bg1"
+                                }
+                              }
+                            }
+                          },
+                          "wps:style": {
+                            "a:lnRef": {
+                              "@idx": "2",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fillRef": {
+                              "@idx": "0",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:effectRef": {
+                              "@idx": "1",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fontRef": {
+                              "@idx": "minor",
+                              "a:schemeClr": {
+                                "@val": "tx1"
+                              }
+                            }
+                          },
+                          "wps:bodyPr": null
+                        }
+                      }
+                    },
+                    "wp14:sizeRelH": {
+                      "@relativeFrom": "margin",
+                      "wp14:pctWidth": "0"
+                    },
+                    "wp14:sizeRelV": {
+                      "@relativeFrom": "margin",
+                      "wp14:pctHeight": "0"
+                    }
+                  }
+                }
+              },
+              "mc:Fallback": {
+                "w:pict": {
+                  "v:line": {
+                    "@w14:anchorId": "6FF68811",
+                    "@id": "Straight Connector 1",
+                    "@o:spid": "_x0000_s1026",
+                    "@style": "position:absolute;z-index:251659264;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:left;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin",
+                    "@from": "0,3.55pt",
+                    "@to": "537.5pt,4.05pt",
+                    "@o:gfxdata": "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\n",
+                    "@strokecolor": "white [3212]",
+                    "@strokeweight": "1pt",
+                    "v:shadow": {
+                      "@on": "t",
+                      "@color": "black",
+                      "@opacity": "24903f",
+                      "@origin": ",.5",
+                      "@offset": "0,.55556mm"
+                    },
+                    "w10:wrap": {
+                      "@anchorx": "margin"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "76DD7283",
+          "@w14:textId": "5830C1B2",
+          "@w:rsidR": "00163271",
+          "@w:rsidRPr": "00163271",
+          "@w:rsidRDefault": "00E67ECE",
+          "@w:rsidP": "008A32F7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "I want t"
+            },
+            {
+              "@w:rsidR": "00163271",
+              "@w:rsidRPr": "00163271",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "o enhance my"
+              }
+            },
+            {
+              "@w:rsidR": "00163271",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "technical"
+            },
+            {
+              "@w:rsidR": "00163271",
+              "@w:rsidRPr": "00163271",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "skills in a challenging and engaging workplace"
+              }
+            },
+            {
+              "@w:rsidR": "00163271",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ", making a difference"
+              }
+            },
+            {
+              "@w:rsidR": "00B30C55",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "and pushing the industry forward"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "458F31A6",
+          "@w14:textId": "240F8B5C",
+          "@w:rsidR": "00163271",
+          "@w:rsidRPr": "00163271",
+          "@w:rsidRDefault": "00163271",
+          "@w:rsidP": "008A32F7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "16"
+              },
+              "w:szCs": {
+                "@w:val": "20"
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "53B6B1A8",
+          "@w14:textId": "2E4AB9E3",
+          "@w:rsidR": "00D7551A",
+          "@w:rsidRPr": "00FF6734",
+          "@w:rsidRDefault": "00D7551A",
+          "@w:rsidP": "00A90521",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading1"
+            },
+            "w:spacing": {
+              "@w:before": "0"
+            }
+          },
+          "w:r": {
+            "@w:rsidRPr": "00FF6734",
+            "w:t": {
+              "@xml:space": "preserve",
+              "#text": "WORK EXPERIENCE"
+            }
+          }
+        },
+        {
+          "@w14:paraId": "184FAC98",
+          "@w14:textId": "740F27C4",
+          "@w:rsidR": "00355AA1",
+          "@w:rsidRPr": "00EB4CD8",
+          "@w:rsidRDefault": "00D915F3",
+          "@w:rsidP": "00EB4CD8",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              },
+              "w:u": {
+                "@w:val": "single"
+              }
+            }
+          },
+          "w:r": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:noProof": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            },
+            "mc:AlternateContent": {
+              "mc:Choice": {
+                "@Requires": "wps",
+                "w:drawing": {
+                  "wp:anchor": {
+                    "@distT": "0",
+                    "@distB": "0",
+                    "@distL": "114300",
+                    "@distR": "114300",
+                    "@simplePos": "0",
+                    "@relativeHeight": "251661312",
+                    "@behindDoc": "0",
+                    "@locked": "0",
+                    "@layoutInCell": "1",
+                    "@allowOverlap": "1",
+                    "@wp14:anchorId": "0638A70B",
+                    "@wp14:editId": "6E83FAE2",
+                    "wp:simplePos": {
+                      "@x": "0",
+                      "@y": "0"
+                    },
+                    "wp:positionH": {
+                      "@relativeFrom": "margin",
+                      "wp:align": "left"
+                    },
+                    "wp:positionV": {
+                      "@relativeFrom": "paragraph",
+                      "wp:posOffset": "46990"
+                    },
+                    "wp:extent": {
+                      "@cx": "6826250",
+                      "@cy": "6350"
+                    },
+                    "wp:effectExtent": {
+                      "@l": "38100",
+                      "@t": "38100",
+                      "@r": "69850",
+                      "@b": "88900"
+                    },
+                    "wp:wrapNone": null,
+                    "wp:docPr": {
+                      "@id": "3",
+                      "@name": "Straight Connector 3"
+                    },
+                    "wp:cNvGraphicFramePr": null,
+                    "a:graphic": {
+                      "@xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                      "a:graphicData": {
+                        "@uri": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+                        "wps:wsp": {
+                          "wps:cNvCnPr": null,
+                          "wps:spPr": {
+                            "a:xfrm": {
+                              "a:off": {
+                                "@x": "0",
+                                "@y": "0"
+                              },
+                              "a:ext": {
+                                "@cx": "6826250",
+                                "@cy": "6350"
+                              }
+                            },
+                            "a:prstGeom": {
+                              "@prst": "line",
+                              "a:avLst": null
+                            },
+                            "a:ln": {
+                              "@w": "12700",
+                              "a:solidFill": {
+                                "a:schemeClr": {
+                                  "@val": "bg1"
+                                }
+                              }
+                            }
+                          },
+                          "wps:style": {
+                            "a:lnRef": {
+                              "@idx": "2",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fillRef": {
+                              "@idx": "0",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:effectRef": {
+                              "@idx": "1",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fontRef": {
+                              "@idx": "minor",
+                              "a:schemeClr": {
+                                "@val": "tx1"
+                              }
+                            }
+                          },
+                          "wps:bodyPr": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "mc:Fallback": {
+                "w:pict": {
+                  "v:line": {
+                    "@w14:anchorId": "6A0AB5D5",
+                    "@id": "Straight Connector 3",
+                    "@o:spid": "_x0000_s1026",
+                    "@style": "position:absolute;z-index:251661312;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:left;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text",
+                    "@from": "0,3.7pt",
+                    "@to": "537.5pt,4.2pt",
+                    "@o:gfxdata": "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\n",
+                    "@strokecolor": "white [3212]",
+                    "@strokeweight": "1pt",
+                    "v:shadow": {
+                      "@on": "t",
+                      "@color": "black",
+                      "@opacity": "24903f",
+                      "@origin": ",.5",
+                      "@offset": "0,.55556mm"
+                    },
+                    "w10:wrap": {
+                      "@anchorx": "margin"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "62DA3B41",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00EB4CD8",
+          "@w:rsidRDefault": "003A1071",
+          "@w:rsidP": "003A1071",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading2"
+            },
+            "w:rPr": {
+              "w:rStyle": {
+                "@w:val": "Heading2Char"
+              },
+              "w:b": null,
+              "w:bCs": null
+            }
+          },
+          "w:proofErr": [
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            }
+          ],
+          "w:r": [
+            {
+              "w:t": "OliveAI"
+            },
+            {
+              "@w:rsidR": "00EB4CD8",
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "–"
+              }
+            },
+            {
+              "@w:rsidR": "00EB4CD8",
+              "w:rPr": {
+                "w:rStyle": {
+                  "@w:val": "Heading2Char"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidR": "00EB4CD8",
+              "@w:rsidRPr": "00EB4CD8",
+              "w:rPr": {
+                "w:rStyle": {
+                  "@w:val": "Heading2Char"
+                },
+                "w:b": null,
+                "w:bCs": null
+              },
+              "w:t": "Software Engineer"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "16FECE69",
+          "@w14:textId": "12264559",
+          "@w:rsidR": "00FC7311",
+          "@w:rsidRPr": "00C9025F",
+          "@w:rsidRDefault": "00C9025F",
+          "@w:rsidP": "00FC7311",
+          "w:pPr": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:i": null,
+              "w:iCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:i": null,
+                "w:iCs": null
+              },
+              "w:t": "Jun 2019 – Dec 2021"
+            },
+            {
+              "@w:rsidR": "00782B66",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:i": null,
+                "w:iCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "in Columbus, OH"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "5880F760",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Automated health care processes for hospitals and health care network"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "s"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ", relying on"
+              }
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Javascript"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "to script automations"
+              }
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "that web-scrape and process patient health information"
+            }
+          ],
+          "w:proofErr": [
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "669F0F17",
+          "@w14:textId": "741B3E49",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Created Node"
+            },
+            {
+              "@w:rsidR": "008D3073",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "JS"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "modules for other"
+              }
+            },
+            {
+              "@w:rsidR": "005161D7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "internal"
+              }
+            },
+            {
+              "@w:rsidR": "002A07B9",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "engineers"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "to utilize"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "in their automations"
+              }
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "005161D7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "slashing development time and improving scalability and efficiency"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "7F12D0CD",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRPr": "004F03E6",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Built"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "REST API"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Clients"
+              }
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "to acquire patient health data"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "from secure web servers, written in Typescript/NodeJS"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "0FE13473",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Worked in a fully Agile environment, adhering to two"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "-"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "week sprints with"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "d"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "aily Standups and biweekly Sprint Planning meetings"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "4DA5C983",
+          "@w14:textId": "79E3E543",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Frequently advised newer employees, teaching them current company architecture"
+            },
+            {
+              "@w:rsidR": "00F5662F",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "006C64C0",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "design patterns, data structures, and"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "good coding practices"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "7629C6BF",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00A242FE",
+          "@w:rsidRPr": "00A242FE",
+          "@w:rsidRDefault": "00A242FE",
+          "@w:rsidP": "00A242FE"
+        },
+        {
+          "@w14:paraId": "6DD6217E",
+          "@w14:textId": "01D7DB4A",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00FF6734",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "006272BC",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading1"
+            },
+            "w:spacing": {
+              "@w:before": "0"
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:t": "PERSONAL"
+            },
+            {
+              "w:rPr": {
+                "w:sz": {
+                  "@w:val": "20"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "w:t": "PROJECTS"
+            },
+            {
+              "@w:rsidRPr": "00FF6734",
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "76F67D37",
+          "@w14:textId": "2301683B",
+          "@w:rsidR": "00355AA1",
+          "@w:rsidRPr": "00355AA1",
+          "@w:rsidRDefault": "006272BC",
+          "@w:rsidP": "00355AA1",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:ind": {
+              "@w:left": "360"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            }
+          },
+          "w:r": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:noProof": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            },
+            "mc:AlternateContent": {
+              "mc:Choice": {
+                "@Requires": "wps",
+                "w:drawing": {
+                  "wp:anchor": {
+                    "@distT": "0",
+                    "@distB": "0",
+                    "@distL": "114300",
+                    "@distR": "114300",
+                    "@simplePos": "0",
+                    "@relativeHeight": "251663360",
+                    "@behindDoc": "0",
+                    "@locked": "0",
+                    "@layoutInCell": "1",
+                    "@allowOverlap": "1",
+                    "@wp14:anchorId": "33F220C4",
+                    "@wp14:editId": "66F35EFC",
+                    "wp:simplePos": {
+                      "@x": "0",
+                      "@y": "0"
+                    },
+                    "wp:positionH": {
+                      "@relativeFrom": "margin",
+                      "wp:align": "left"
+                    },
+                    "wp:positionV": {
+                      "@relativeFrom": "paragraph",
+                      "wp:posOffset": "45085"
+                    },
+                    "wp:extent": {
+                      "@cx": "6826250",
+                      "@cy": "6350"
+                    },
+                    "wp:effectExtent": {
+                      "@l": "38100",
+                      "@t": "38100",
+                      "@r": "69850",
+                      "@b": "88900"
+                    },
+                    "wp:wrapNone": null,
+                    "wp:docPr": {
+                      "@id": "4",
+                      "@name": "Straight Connector 4"
+                    },
+                    "wp:cNvGraphicFramePr": null,
+                    "a:graphic": {
+                      "@xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                      "a:graphicData": {
+                        "@uri": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+                        "wps:wsp": {
+                          "wps:cNvCnPr": null,
+                          "wps:spPr": {
+                            "a:xfrm": {
+                              "a:off": {
+                                "@x": "0",
+                                "@y": "0"
+                              },
+                              "a:ext": {
+                                "@cx": "6826250",
+                                "@cy": "6350"
+                              }
+                            },
+                            "a:prstGeom": {
+                              "@prst": "line",
+                              "a:avLst": null
+                            },
+                            "a:ln": {
+                              "@w": "12700",
+                              "a:solidFill": {
+                                "a:schemeClr": {
+                                  "@val": "bg1"
+                                }
+                              }
+                            }
+                          },
+                          "wps:style": {
+                            "a:lnRef": {
+                              "@idx": "2",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fillRef": {
+                              "@idx": "0",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:effectRef": {
+                              "@idx": "1",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fontRef": {
+                              "@idx": "minor",
+                              "a:schemeClr": {
+                                "@val": "tx1"
+                              }
+                            }
+                          },
+                          "wps:bodyPr": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "mc:Fallback": {
+                "w:pict": {
+                  "v:line": {
+                    "@w14:anchorId": "30313C88",
+                    "@id": "Straight Connector 4",
+                    "@o:spid": "_x0000_s1026",
+                    "@style": "position:absolute;z-index:251663360;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:left;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text",
+                    "@from": "0,3.55pt",
+                    "@to": "537.5pt,4.05pt",
+                    "@o:gfxdata": "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\n",
+                    "@strokecolor": "white [3212]",
+                    "@strokeweight": "1pt",
+                    "v:shadow": {
+                      "@on": "t",
+                      "@color": "black",
+                      "@opacity": "24903f",
+                      "@origin": ",.5",
+                      "@offset": "0,.55556mm"
+                    },
+                    "w10:wrap": {
+                      "@anchorx": "margin"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "7B87E501",
+          "@w14:textId": "3A628479",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Built an automated Discord bot to add features"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "and moderation"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "to chatting servers"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "7080D964",
+          "@w14:textId": "0CDA5C81",
+          "@w:rsidR": "00D443E4",
+          "@w:rsidRDefault": "00D443E4",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "Created custom Java"
+            },
+            {
+              "@w:rsidR": "00E272F3",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "GUI"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "application to assist family member in medical billing"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "066D7218",
+          "@w14:textId": "74005B07",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRDefault": "004F03E6",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Researched and"
+              }
+            },
+            {
+              "@w:rsidR": "00DC048C",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "implemented"
+            },
+            {
+              "@w:rsidR": "00D443E4",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "AI"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "3D object detection"
+              }
+            },
+            {
+              "@w:rsidR": "00DC048C",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "methods"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "for intermural autonomous driving competition"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "01CF2F8E",
+          "@w14:textId": "6909AA79",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "20"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Trained an AI application using"
+              }
+            },
+            {
+              "@w:rsidR": "001F79AA",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": "a linear regressor"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "to predict the outcomes of NFL games"
+              }
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "75E2B597",
+          "@w14:textId": "4C5AAE6B",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "20"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Built interactive"
+              }
+            },
+            {
+              "@w:rsidR": "006F688C",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "full stack"
+            },
+            {
+              "@w:rsidR": "00DA7857",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "website"
+            },
+            {
+              "@w:rsidR": "00773AF5",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "from scratch"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "using"
+              }
+            },
+            {
+              "@w:rsidR": "00EA25D0",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Nginx, Angular,"
+              }
+            },
+            {
+              "@w:rsidR": "00773AF5",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "Express, and Postgres"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "282CC07B",
+          "@w14:textId": "37F37CFC",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "20"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Developed an Android application using Java and Android Studio with a team; application"
+              }
+            },
+            {
+              "@w:rsidR": "00CE4851",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "contained minigames and other tasks"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": ", utilizes activities and Android sensors/files"
+            },
+            {
+              "@w:rsidR": "008443F9",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "ystems"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "27D0FA61",
+          "@w14:textId": "014F0A6B",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00BA01E7",
+          "@w:rsidRDefault": "00E35502",
+          "@w:rsidP": "00BA01E7",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "19"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "20"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "Built a"
+            },
+            {
+              "@w:rsidR": "00BA01E7",
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "comp"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "l"
+            },
+            {
+              "@w:rsidR": "00BA01E7",
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:szCs": {
+                  "@w:val": "32"
+                }
+              },
+              "w:t": "ete 2D platformer using C# as well as a 3D vehicle shooter using C# in Unity with a team of peers in Agile environments"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "26B9A1DE",
+          "@w14:textId": "7197DCDB",
+          "@w:rsidR": "00CA59E9",
+          "@w:rsidRPr": "00355AA1",
+          "@w:rsidRDefault": "00CA59E9",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "16"
+              },
+              "w:szCs": {
+                "@w:val": "20"
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "7B317321",
+          "@w14:textId": "6BC38AA2",
+          "@w:rsidR": "00574565",
+          "@w:rsidRDefault": "00574565",
+          "@w:rsidP": "00297B39",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading1"
+            },
+            "w:spacing": {
+              "@w:before": "0"
+            }
+          },
+          "w:r": {
+            "@w:rsidRPr": "00FF6734",
+            "w:t": {
+              "@xml:space": "preserve",
+              "#text": "EDUCATION"
+            }
+          }
+        },
+        {
+          "@w14:paraId": "796A7784",
+          "@w14:textId": "57C05042",
+          "@w:rsidR": "00355AA1",
+          "@w:rsidRPr": "00650907",
+          "@w:rsidRDefault": "00EA56B4",
+          "@w:rsidP": "00650907",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:tabs": {
+              "w:tab": {
+                "@w:val": "left",
+                "@w:pos": "1660"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:b": null,
+              "w:bCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:bCs": null,
+                "w:noProof": null,
+                "w:sz": {
+                  "@w:val": "12"
+                },
+                "w:szCs": {
+                  "@w:val": "12"
+                }
+              },
+              "mc:AlternateContent": {
+                "mc:Choice": {
+                  "@Requires": "wps",
+                  "w:drawing": {
+                    "wp:anchor": {
+                      "@distT": "0",
+                      "@distB": "0",
+                      "@distL": "114300",
+                      "@distR": "114300",
+                      "@simplePos": "0",
+                      "@relativeHeight": "251665408",
+                      "@behindDoc": "0",
+                      "@locked": "0",
+                      "@layoutInCell": "1",
+                      "@allowOverlap": "1",
+                      "@wp14:anchorId": "030C4AC5",
+                      "@wp14:editId": "5C407E41",
+                      "wp:simplePos": {
+                        "@x": "0",
+                        "@y": "0"
+                      },
+                      "wp:positionH": {
+                        "@relativeFrom": "margin",
+                        "wp:posOffset": "31750"
+                      },
+                      "wp:positionV": {
+                        "@relativeFrom": "paragraph",
+                        "wp:posOffset": "24765"
+                      },
+                      "wp:extent": {
+                        "@cx": "6826250",
+                        "@cy": "6350"
+                      },
+                      "wp:effectExtent": {
+                        "@l": "38100",
+                        "@t": "38100",
+                        "@r": "69850",
+                        "@b": "88900"
+                      },
+                      "wp:wrapNone": null,
+                      "wp:docPr": {
+                        "@id": "5",
+                        "@name": "Straight Connector 5"
+                      },
+                      "wp:cNvGraphicFramePr": null,
+                      "a:graphic": {
+                        "@xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                        "a:graphicData": {
+                          "@uri": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+                          "wps:wsp": {
+                            "wps:cNvCnPr": null,
+                            "wps:spPr": {
+                              "a:xfrm": {
+                                "a:off": {
+                                  "@x": "0",
+                                  "@y": "0"
+                                },
+                                "a:ext": {
+                                  "@cx": "6826250",
+                                  "@cy": "6350"
+                                }
+                              },
+                              "a:prstGeom": {
+                                "@prst": "line",
+                                "a:avLst": null
+                              },
+                              "a:ln": {
+                                "@w": "12700",
+                                "a:solidFill": {
+                                  "a:schemeClr": {
+                                    "@val": "bg1"
+                                  }
+                                }
+                              }
+                            },
+                            "wps:style": {
+                              "a:lnRef": {
+                                "@idx": "2",
+                                "a:schemeClr": {
+                                  "@val": "accent1"
+                                }
+                              },
+                              "a:fillRef": {
+                                "@idx": "0",
+                                "a:schemeClr": {
+                                  "@val": "accent1"
+                                }
+                              },
+                              "a:effectRef": {
+                                "@idx": "1",
+                                "a:schemeClr": {
+                                  "@val": "accent1"
+                                }
+                              },
+                              "a:fontRef": {
+                                "@idx": "minor",
+                                "a:schemeClr": {
+                                  "@val": "tx1"
+                                }
+                              }
+                            },
+                            "wps:bodyPr": null
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "mc:Fallback": {
+                  "w:pict": {
+                    "v:line": {
+                      "@w14:anchorId": "27F942AF",
+                      "@id": "Straight Connector 5",
+                      "@o:spid": "_x0000_s1026",
+                      "@style": "position:absolute;z-index:251665408;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text",
+                      "@from": "2.5pt,1.95pt",
+                      "@to": "540pt,2.45pt",
+                      "@o:gfxdata": "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\n",
+                      "@strokecolor": "white [3212]",
+                      "@strokeweight": "1pt",
+                      "v:shadow": {
+                        "@on": "t",
+                        "@color": "black",
+                        "@opacity": "24903f",
+                        "@origin": ",.5",
+                        "@offset": "0,.55556mm"
+                      },
+                      "w10:wrap": {
+                        "@anchorx": "margin"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "@w:rsidR": "00574565",
+              "@w:rsidRPr": "00C90AC9",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                },
+                "w:sz": {
+                  "@w:val": "12"
+                },
+                "w:szCs": {
+                  "@w:val": "12"
+                }
+              },
+              "w:tab": null
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "57604B58",
+          "@w14:textId": "5F0454E4",
+          "@w:rsidR": "006E09DB",
+          "@w:rsidRDefault": "007E2146",
+          "@w:rsidP": "006E09DB",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading2"
+            }
+          },
+          "w:r": [
+            {
+              "w:t": "Master of Science"
+            },
+            {
+              "@w:rsidR": "005D4311",
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "in"
+              }
+            },
+            {
+              "@w:rsidR": "006B795B",
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Computer Science and Engineering"
+              }
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null,
+              "w:t": "Aug 2019 – Aug 2022"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "27E0CFEA",
+          "@w14:textId": "224EA184",
+          "@w:rsidR": "009E48EC",
+          "@w:rsidRPr": "00301D8D",
+          "@w:rsidRDefault": "00A53A99",
+          "@w:rsidP": "009E48EC",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "The Ohio State University"
+            },
+            {
+              "@w:rsidR": "00A22EE1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "000877E9",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Columbus, OH –"
+              }
+            },
+            {
+              "@w:rsidR": "009E48EC",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "GPA 3.683 Cum Laude"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "5934AA93",
+          "@w14:textId": "17A7EBBC",
+          "@w:rsidR": "009E48EC",
+          "@w:rsidRDefault": "009E48EC",
+          "@w:rsidP": "009E48EC",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:iCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:iCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Specializ"
+            },
+            {
+              "@w:rsidR": "000F2FAD",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:iCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "ed"
+            },
+            {
+              "@w:rsidRPr": "00355AA1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:iCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "in Machine Learning and Arti"
+              }
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:iCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "ficial Intelligence"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "61B854D6",
+          "@w14:textId": "5135BC5B",
+          "@w:rsidR": "009E48EC",
+          "@w:rsidRPr": "009E48EC",
+          "@w:rsidRDefault": "009E48EC",
+          "@w:rsidP": "009E48EC",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:iCs": null,
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "2C217B8B",
+          "@w14:textId": "6B896C1E",
+          "@w:rsidR": "005C35E4",
+          "@w:rsidRDefault": "005C35E4",
+          "@w:rsidP": "005C35E4",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading2"
+            }
+          },
+          "w:r": [
+            {
+              "w:t": "Bachelor of Sci"
+            },
+            {
+              "@w:rsidR": "005D4311",
+              "w:t": "ence in Computer Science and Engineering"
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:tab": null,
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Aug"
+              }
+            },
+            {
+              "@w:rsidR": "000877E9",
+              "w:t": "2014 – May 2019"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "49845460",
+          "@w14:textId": "35FAED57",
+          "@w:rsidR": "00223A41",
+          "@w:rsidRPr": "00650907",
+          "@w:rsidRDefault": "00223A41",
+          "@w:rsidP": "00223A41",
+          "w:pPr": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:i": null,
+              "w:iCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "The Ohio State University"
+            },
+            {
+              "@w:rsidR": "00A22EE1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "00D51ECC",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Columbus, OH"
+              }
+            },
+            {
+              "@w:rsidR": "00FB08C8",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "–"
+              }
+            },
+            {
+              "@w:rsidR": "008A4DA6",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "GPA 3."
+            },
+            {
+              "@w:rsidR": "00C24A1A",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "568 Cum Laude"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "48A2323A",
+          "@w14:textId": "79A6F469",
+          "@w:rsidR": "008C069B",
+          "@w:rsidRPr": "00650907",
+          "@w:rsidRDefault": "008C069B",
+          "@w:rsidP": "00223A41",
+          "w:pPr": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:i": null,
+              "w:iCs": null
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "University of Toledo"
+            },
+            {
+              "@w:rsidR": "00A22EE1",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "00D51ECC",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Toledo, OH"
+              }
+            },
+            {
+              "@w:rsidR": "00FC3E48",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "–"
+              }
+            },
+            {
+              "@w:rsidR": "008A4DA6",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "GPA 3.626"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "1CF1A91C",
+          "@w14:textId": "2EFD81CB",
+          "@w:rsidR": "00C24A1A",
+          "@w:rsidRDefault": "00C24A1A",
+          "@w:rsidP": "00223A41",
+          "w:pPr": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Dean’s List: Fall 2014 – Spring"
+              }
+            },
+            {
+              "@w:rsidR": "00AD24F4",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "2017"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "126CA429",
+          "@w14:textId": "77777777",
+          "@w:rsidR": "00D51ECC",
+          "@w:rsidRPr": "00223A41",
+          "@w:rsidRDefault": "00D51ECC",
+          "@w:rsidP": "00223A41",
+          "w:pPr": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "11346E3C",
+          "@w14:textId": "1ADCBFA0",
+          "@w:rsidR": "00D7551A",
+          "@w:rsidRDefault": "0028786B",
+          "@w:rsidP": "00477873",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Heading1"
+            },
+            "w:spacing": {
+              "@w:before": "0"
+            }
+          },
+          "w:r": {
+            "w:t": "SKILLS"
+          }
+        },
+        {
+          "@w14:paraId": "6B763DF3",
+          "@w14:textId": "38D907E9",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00C90AC9",
+          "@w:rsidRDefault": "00477873",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              },
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              },
+              "w:u": {
+                "@w:val": "single"
+              }
+            }
+          },
+          "w:r": {
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:bCs": null,
+              "w:noProof": null,
+              "w:sz": {
+                "@w:val": "12"
+              },
+              "w:szCs": {
+                "@w:val": "12"
+              }
+            },
+            "mc:AlternateContent": {
+              "mc:Choice": {
+                "@Requires": "wps",
+                "w:drawing": {
+                  "wp:anchor": {
+                    "@distT": "0",
+                    "@distB": "0",
+                    "@distL": "114300",
+                    "@distR": "114300",
+                    "@simplePos": "0",
+                    "@relativeHeight": "251667456",
+                    "@behindDoc": "0",
+                    "@locked": "0",
+                    "@layoutInCell": "1",
+                    "@allowOverlap": "1",
+                    "@wp14:anchorId": "038B7C9A",
+                    "@wp14:editId": "55F3745B",
+                    "wp:simplePos": {
+                      "@x": "0",
+                      "@y": "0"
+                    },
+                    "wp:positionH": {
+                      "@relativeFrom": "margin",
+                      "wp:posOffset": "-6350"
+                    },
+                    "wp:positionV": {
+                      "@relativeFrom": "paragraph",
+                      "wp:posOffset": "46990"
+                    },
+                    "wp:extent": {
+                      "@cx": "6826250",
+                      "@cy": "6350"
+                    },
+                    "wp:effectExtent": {
+                      "@l": "38100",
+                      "@t": "38100",
+                      "@r": "69850",
+                      "@b": "88900"
+                    },
+                    "wp:wrapNone": null,
+                    "wp:docPr": {
+                      "@id": "6",
+                      "@name": "Straight Connector 6"
+                    },
+                    "wp:cNvGraphicFramePr": null,
+                    "a:graphic": {
+                      "@xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                      "a:graphicData": {
+                        "@uri": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+                        "wps:wsp": {
+                          "wps:cNvCnPr": null,
+                          "wps:spPr": {
+                            "a:xfrm": {
+                              "a:off": {
+                                "@x": "0",
+                                "@y": "0"
+                              },
+                              "a:ext": {
+                                "@cx": "6826250",
+                                "@cy": "6350"
+                              }
+                            },
+                            "a:prstGeom": {
+                              "@prst": "line",
+                              "a:avLst": null
+                            },
+                            "a:ln": {
+                              "@w": "12700",
+                              "a:solidFill": {
+                                "a:schemeClr": {
+                                  "@val": "bg1"
+                                }
+                              }
+                            }
+                          },
+                          "wps:style": {
+                            "a:lnRef": {
+                              "@idx": "2",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fillRef": {
+                              "@idx": "0",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:effectRef": {
+                              "@idx": "1",
+                              "a:schemeClr": {
+                                "@val": "accent1"
+                              }
+                            },
+                            "a:fontRef": {
+                              "@idx": "minor",
+                              "a:schemeClr": {
+                                "@val": "tx1"
+                              }
+                            }
+                          },
+                          "wps:bodyPr": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "mc:Fallback": {
+                "w:pict": {
+                  "v:line": {
+                    "@w14:anchorId": "3E343071",
+                    "@id": "Straight Connector 6",
+                    "@o:spid": "_x0000_s1026",
+                    "@style": "position:absolute;z-index:251667456;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text",
+                    "@from": "-.5pt,3.7pt",
+                    "@to": "537pt,4.2pt",
+                    "@o:gfxdata": "UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF\n90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA\n0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD\nOlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893\nSUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y\nJsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl\nbHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR\nJVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY\n22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i\nOWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA\nIQDHWUt7wQEAAOEDAAAOAAAAZHJzL2Uyb0RvYy54bWysU8GO0zAQvSPxD5bvNGkQZRU13cOulguC\nFbAf4DrjxpLtsWzTpH/P2GnTFSCQVntxbM+8N2+eJ9vbyRp2hBA1uo6vVzVn4CT22h06/vTj4d0N\nZzEJ1wuDDjp+gshvd2/fbEffQoMDmh4CIxIX29F3fEjJt1UV5QBWxBV6cBRUGKxIdAyHqg9iJHZr\nqqauN9WIofcBJcRIt/dzkO8Kv1Ig01elIiRmOk7aUllDWfd5rXZb0R6C8IOWZxniBSqs0I6KLlT3\nIgn2M+g/qKyWASOqtJJoK1RKSyg9UDfr+rduvg/CQ+mFzIl+sSm+Hq38crxzj4FsGH1so38MuYtJ\nBZu/pI9NxazTYhZMiUm63Nw0m+YDeSoptnlPOyKprlgfYvoEaFnedNxol1sRrTh+jmlOvaTka+PY\nSAPUfKzrkhbR6P5BG5ODZRzgzgR2FPSQ+8P6XOxZFpU2jhRc+yi7dDIw838DxXRPypu5QB6xK6eQ\nEly68BpH2RmmSMECPCv7F/Ccn6FQxm8Br/9fdUGUyujSArbaYfgbQZouktWcf3Fg7jtbsMf+VF64\nWENzVJ7pPPN5UJ+fC/z6Z+5+AQAA//8DAFBLAwQUAAYACAAAACEAK6guFdoAAAAHAQAADwAAAGRy\ncy9kb3ducmV2LnhtbEyPzW7CMBCE75V4B2sr9QZroqhBaTYoAvoABR7AxCaJ8E9km5D26WtO7XFn\nRjPfVtvZaDYpHwZnCdYrDkzZ1snBdgTn0+dyAyxEYaXQziqCbxVgWy9eKlFK97BfajrGjqUSG0pB\n0Mc4loih7ZURYeVGZZN3dd6ImE7fofTikcqNxozzdzRisGmhF6Pa9aq9He+GQE63Zr/jh30hmhOi\n1xn+nDOit9e5+QAW1Rz/wvDET+hQJ6aLu1sZmCZYrtMrkaDIgT1tXuRJuBBscsC6wv/89S8AAAD/\n/wMAUEsBAi0AFAAGAAgAAAAhALaDOJL+AAAA4QEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50\nX1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAAAAAvAQAA\nX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAx1lLe8EBAADhAwAADgAAAAAAAAAAAAAAAAAuAgAA\nZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEAK6guFdoAAAAHAQAADwAAAAAAAAAAAAAAAAAb\nBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAACIFAAAAAA==\n",
+                    "@strokecolor": "white [3212]",
+                    "@strokeweight": "1pt",
+                    "v:shadow": {
+                      "@on": "t",
+                      "@color": "black",
+                      "@opacity": "24903f",
+                      "@origin": ",.5",
+                      "@offset": "0,.55556mm"
+                    },
+                    "w10:wrap": {
+                      "@anchorx": "margin"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@w14:paraId": "601B6A6A",
+          "@w14:textId": "4E4BA210",
+          "@w:rsidR": "002B033E",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "7"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Programming Languages:"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidR": "001D5AAD",
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Java,"
+              }
+            },
+            {
+              "@w:rsidR": "001D5AAD",
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Javascript"
+            },
+            {
+              "@w:rsidR": "001D5AAD",
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ", Typescript, Python,"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "C, C++, C#, Ruby, HTML/CSS, Scheme"
+            }
+          ],
+          "w:proofErr": [
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "10A9DCFE",
+          "@w14:textId": "37C65563",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRPr": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "7"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Development Frameworks:"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Node JS,"
+              }
+            },
+            {
+              "@w:rsidR": "00DE054B",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "Conda"
+            },
+            {
+              "@w:rsidR": "00DE054B",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Android Studio, Unity,"
+              }
+            },
+            {
+              "@w:rsidR": "00001FE9",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "Angular"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ", Bash,"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "Powershell"
+            }
+          ],
+          "w:proofErr": [
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            },
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "4A5FD69D",
+          "@w14:textId": "77C18491",
+          "@w:rsidR": "00BA01E7",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "7"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Applications and Tools:"
+              }
+            },
+            {
+              "@w:rsidR": "00FB45C8",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "AWS,"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "JIRA,"
+              }
+            },
+            {
+              "@w:rsidR": "00AF437A",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Scikit-Learn"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "00F431E2",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Express,"
+            },
+            {
+              "@w:rsidR": "00E704CB",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Nginx,"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "Mocha, REST API"
+              }
+            },
+            {
+              "@w:rsidR": "001F79AA",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "s"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": ", Git"
+            },
+            {
+              "@w:rsidR": "00773575",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": ","
+              }
+            },
+            {
+              "@w:rsidR": "00773575",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Postrgres"
+            }
+          ],
+          "w:proofErr": [
+            {
+              "@w:type": "spellStart"
+            },
+            {
+              "@w:type": "spellEnd"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "35FAF3EE",
+          "@w14:textId": "3F14A733",
+          "@w:rsidR": "001F79AA",
+          "@w:rsidRDefault": "001F79AA",
+          "@w:rsidP": "00D20300",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "7"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "General Concepts:"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve",
+                "#text": "OOP, Agile, TDD, Unit Testing, Networking,"
+              }
+            },
+            {
+              "@w:rsidR": "0038516D",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Application Development, AI and ML"
+            }
+          ]
+        },
+        {
+          "@w14:paraId": "02739F28",
+          "@w14:textId": "66C78A01",
+          "@w:rsidR": "008572A4",
+          "@w:rsidRPr": "008572A4",
+          "@w:rsidRDefault": "00BA01E7",
+          "@w:rsidP": "008572A4",
+          "w:pPr": {
+            "w:pStyle": {
+              "@w:val": "Default"
+            },
+            "w:numPr": {
+              "w:ilvl": {
+                "@w:val": "0"
+              },
+              "w:numId": {
+                "@w:val": "7"
+              }
+            },
+            "w:spacing": {
+              "@w:line": "252",
+              "@w:lineRule": "auto"
+            },
+            "w:rPr": {
+              "w:rFonts": {
+                "@w:ascii": "Garamond",
+                "@w:hAnsi": "Garamond"
+              },
+              "w:color": {
+                "@w:val": "auto"
+              }
+            }
+          },
+          "w:r": [
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                },
+                "w:b": null,
+                "w:bCs": null,
+                "w:color": {
+                  "@w:val": "auto"
+                }
+              },
+              "w:t": "Personal Qualities:"
+            },
+            {
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidR": "008D00C6",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "Good coding and OOP practices, f"
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "ast learner, hard worker, good"
+            },
+            {
+              "@w:rsidR": "008D00C6",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": {
+                "@xml:space": "preserve"
+              }
+            },
+            {
+              "@w:rsidRPr": "00BA01E7",
+              "w:rPr": {
+                "w:rFonts": {
+                  "@w:ascii": "Garamond",
+                  "@w:hAnsi": "Garamond"
+                }
+              },
+              "w:t": "communicator"
+            }
+          ]
+        }
+      ],
+      "w:sectPr": {
+        "@w:rsidR": "008572A4",
+        "@w:rsidRPr": "008572A4",
+        "@w:rsidSect": "001224A3",
+        "w:footerReference": {
+          "@w:type": "default",
+          "@r:id": "rId8"
+        },
+        "w:pgSz": {
+          "@w:w": "12240",
+          "@w:h": "15840"
+        },
+        "w:pgMar": {
+          "@w:top": "630",
+          "@w:right": "720",
+          "@w:bottom": "414",
+          "@w:left": "720",
+          "@w:header": "720",
+          "@w:footer": "342",
+          "@w:gutter": "0"
+        },
+        "w:cols": {
+          "@w:space": "720"
+        },
+        "w:noEndnote": null
+      }
+    }
+  }
+}
