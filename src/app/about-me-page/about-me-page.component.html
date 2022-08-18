@@ -1,22 +1,22 @@
 <mat-toolbar color="primary" class="mat-elevation-z6 top-toolbar" #toolbar>
 	<span class="flexExpand"></span>
 </mat-toolbar>
-<div class="card-container" #mainContainer>
+<div class="card-container flex-column" #mainContainer>
 	<mat-card class="intro-card">
 		<mat-card-title>Hi, I'm Amir Sarrouj!</mat-card-title>
 		<mat-card-content>
 			<div class="intro-card-content">
 				<img class="my-headshot" src="/assets/cropped.jpg" alt="Amir">
-				<div class="intro-card-text">
+				<div class="intro-card-text flex-column">
 					<span>
 						Welcome to my website! This Full Stack application was made as a learning oppurtunity for
-						technologies like
-						Angular, Nginx, ExpressJS, and Postgres. Currently it is still under development.
-						It also allows me to host my resume and any other useful information on the web!
+						technologies like Angular, Nginx, ExpressJS, and Postgres. It also allows me to host my resume 
+						and any other useful information on the web! This is currently an early version of the 'About Me' page, 
+						and a redesign is under development!
 						<br>
 						Feel free to contact me for any professional inquiries and check out my social medias below!
 					</span>
-					<div class="intro-card-info">
+					<div class="intro-card-info flex-column">
 						<div class=contact-info>
 							<a class="mail-link" href="mailto: asarrouj590@gmail.com">
 								<mat-icon>email</mat-icon>
@@ -40,11 +40,9 @@
 						</div>
 					</div>
 				</div>
-	
 			</div>
 		</mat-card-content>
 	</mat-card>
 </div>
 <mat-toolbar color="primary" class="mat-elevation-z6 bottom-toolbar">
-	<span class="flexExpand">Test</span>
 </mat-toolbar>

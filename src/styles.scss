@@ -14,3 +14,7 @@ body::-webkit-scrollbar {
 .medium-icon {
 	transform: scale(1.4);
 }
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}

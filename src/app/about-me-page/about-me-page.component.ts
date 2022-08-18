@@ -3,7 +3,7 @@ import { Component, ElementRef, OnInit, ViewChild, AfterViewInit, Renderer2 } fr
 import { MatIconRegistry } from '@angular/material/icon';
 import { MatToolbar } from '@angular/material/toolbar';
 import { DomSanitizer, Title } from '@angular/platform-browser';
-import { sectionConfigs } from '../../assets/jsons/resumeSections'
+import { sectionConfigs } from './resumeSections'
 
 
 @Component({
