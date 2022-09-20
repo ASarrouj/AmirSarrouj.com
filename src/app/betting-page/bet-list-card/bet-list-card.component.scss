@@ -1,0 +1,45 @@
+:host {
+	width: max(300px, 40vw);
+	border: 2px solid
+}
+.bet-card:first-child {
+	// border-top: 2px solid;
+}
+.bet-card {
+	// border-bottom: 2px solid;
+	// border-right: 2px solid;
+	// border-left: 2px solid;
+	// height: auto;
+	gap: 1px;
+	padding: 4px;
+}
+.bet-main {
+	display: flex;
+	flex-direction: column;
+	border-bottom: 1px solid;
+}
+.bet-text-row {
+	display: flex;
+}
+.bet-card:nth-child(odd) {
+    background-color: rgb(185, 184, 184);
+}
+.leg-main {
+	display: flex;
+	flex-direction: column;
+	gap: 2px
+}
+.leg-div {
+	display: flex;
+	flex-direction: column;
+}
+.bet-text {
+	font-weight: bold;
+}
+.description-text {
+	font-size: 10px;
+}
+.date-text {
+	font-size: 12px;
+	margin-left: auto;
+}

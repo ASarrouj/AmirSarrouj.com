@@ -10,12 +10,14 @@ import { AppComponent } from './app.component';
 import { AboutMePageComponent } from './about-me-page/about-me-page.component';
 import { BettingPageComponent } from './betting-page/betting-page.component';
 import { HttpClientModule } from '@angular/common/http';
+import { BetListCardComponent } from './betting-page/bet-list-card/bet-list-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutMePageComponent,
     BettingPageComponent,
+    BetListCardComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,25 @@
+<mat-card>
+    <mat-card-title>{{title}}</mat-card-title>
+    <mat-card-content>
+        <div>
+            <div class="bet-card flex-column" *ngFor="let bet of bets">
+                <div class="bet-main">
+                    <div class="bet-text-row">
+                        <span class="bet-text">{{bet.result}}</span>
+                        <span class="date-text">{{bet.betType}}</span>
+                    </div>
+                    <div class="bet-text-row">
+                        <span class="bet-text">{{'$' + bet.risk + ' to win $' + bet.toWin}}</span>
+                        <span class="date-text">{{bet.dateSettled}}</span>
+                    </div>
+                </div>
+                <div class="leg-main">
+                    <div class="leg-div" *ngFor="let leg of bet.legs">
+                        <span class="selection-text">{{leg.fullSelection}}</span>
+                        <span class="description-text">{{leg.description}}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>

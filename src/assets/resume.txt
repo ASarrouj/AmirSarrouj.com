@@ -32,7 +32,7 @@ Master of Science in Computer Science and EngineeringAug 2019 – Aug 2022
 The Ohio State University, Columbus, OH – GPA 3.683 Cum Laude
 Specialized in Machine Learning and Artificial Intelligence
 
-Bachelor of Science in Computer Science and Engineering Aug 2014 – May 2019
+Bachelor of Science in Computer Science and EngineeringAug 2014 – May 2019
 The Ohio State University, Columbus, OH – GPA 3.568 Cum Laude
 University of Toledo, Toledo, OH – GPA 3.626
 Dean’s List: Fall 2014 – Spring 2017
@@ -41,6 +41,6 @@ SKILLS
 -635046990
 Programming Languages: Java, Javascript, Typescript, Python, C, C++, C#, Ruby, HTML/CSS, Scheme
 Development Frameworks: Node JS, Conda, Android Studio, Unity, Angular, Bash, Powershell
-Applications and Tools: AWS, JIRA, Scikit-Learn, Express, Nginx, Mocha, REST APIs, Git, Postrgres
+Applications and Tools: AWS, JIRA, Scikit-Learn, Express, Nginx, Mocha, REST APIs, Git, Postgres
 General Concepts: OOP, Agile, TDD, Unit Testing, Networking, Application Development, AI and ML
 Personal Qualities: Good coding and OOP practices, fast learner, hard worker, good communicator

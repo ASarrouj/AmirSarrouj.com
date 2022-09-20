@@ -1,1 +1,33 @@
-<p>betting-page works!</p>
+<div class="card-container flex-column">
+    <div class="card-row">
+        <mat-card class="stat-card">
+            <mat-card-title>Betting Profit</mat-card-title>
+            <mat-card-content>
+                <div class="flex-column">
+                    <span class="stat-text" [ngStyle]="{'color': moneyTextColor(betSummary['total'])}">{{
+                        betSummary['total'] }}</span>
+                </div>
+            </mat-card-content>
+        </mat-card>
+        <mat-card class="stat-card">
+            <mat-card-title>Bets Made</mat-card-title>
+            <mat-card-content>
+                <div class="flex-column">
+                    <span class="stat-text">{{ betSummary['count'] }}</span>
+                </div>
+            </mat-card-content>
+        </mat-card>
+        <mat-card class="stat-card">
+            <mat-card-title>Average Bet Size</mat-card-title>
+            <mat-card-content>
+                <div class="flex-column">
+                    <span class="stat-text">{{ betSummary['averageBet'] }}</span>
+                </div>
+            </mat-card-content>
+        </mat-card>
+    </div>
+    <div class="card-row">
+        <app-bet-list-card [title]="currentBetData.title" [bets]="currentBetData.bets"></app-bet-list-card>
+        <app-bet-list-card [title]="recentBetData.title" [bets]="recentBetData.bets"></app-bet-list-card>
+    </div>
+</div>
